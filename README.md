@@ -10,7 +10,7 @@ Watch tutorial on YouTube
 
 1. Open index.html in your browser.
 
-
+3. This statement is used for testing too.
 ## TESTSAVIN
 
 Savin VSCODE
